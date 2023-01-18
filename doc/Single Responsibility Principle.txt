@@ -1,0 +1,11 @@
+-- Do one think and do it well.
+
+
+There should never be more than one reason for class to change
+
+A class should have one and only one reason to change.
+
+It means that a class should have only one job
+
+
+Software is never dormant it's always changing
